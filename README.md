@@ -1,5 +1,5 @@
 # openwibwob
-Yo-kai Watch Wibble Wobble in Python!
+# Yo-kai Watch Wibble Wobble in Python!
 
 ![alt text](https://github.com/ThijsGaming/openwibwob/blob/main/screenshot.png)
 
