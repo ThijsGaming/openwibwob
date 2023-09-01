@@ -3,8 +3,14 @@ Yo-kai Watch Wibble Wobble in Python!
 
 ![alt text](https://github.com/ThijsGaming/openwibwob/blob/main/screenshot.png)
 
-# Cool Features:
+# Working Features
+# ✅ Drag Characters To Same Characters And Disappear Both Characters
+# ✅ Music
+# ✅ When You Drag An Character To Another Character That's Not The Same It Does Nothing
+# ✅ Close Button
 
-# 1: You can read the code for your self and edit it by making a fork
+# Not Planned Features
+# ❌ Click On Just One Character To Let Them Disappear
 
-for example you can edit the Yo-Kai png files or the music or just edit the code
+# Not Working
+# Let Me Know In Issues
