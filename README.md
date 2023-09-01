@@ -9,6 +9,9 @@ Yo-kai Watch Wibble Wobble in Python!
 # ✅ When You Drag An Character To Another Character That's Not The Same It Does Nothing
 # ✅ Close Button
 
+
+
+
 # Not Planned Features
 # ❌ Click On Just One Character To Let Them Disappear
 
