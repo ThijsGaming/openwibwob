@@ -7,4 +7,4 @@ Yo-kai Watch Wibble Wobble in Python!
 
 # 1: You can read the code for your self and edit it by making a fork
 
-for example you can edit the Yo-Kai png files or just edit the code
+for example you can edit the Yo-Kai png files or the music or just edit the code
